@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Teko:wght@300..700&display=swap');
+body {
+    font-family: "Teko", sans-serif;
+    background-color: cornsilk;
+    background-image: url(https://images.bfmtv.com/CYWb6lYvDHXpDY45Rb7B2sEyBlk=/0x0:1680x1196/1680x0/images/Carte-de-League-of-Legends-851333.jpg);
+    background-attachment: fixed;
+    
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    text-align: center;
+    background-color: black;
+    
+}
+
+h3 {
+    color: rgb(223, 164, 17);
+    text-align: center;
+    font-size: 40px;
+}
+h4 {
+    color: rgb(223, 164, 17);
+    text-align: center;
+    font-size: 40px;  
+}
+h5 {
+    color: rgb(223, 164, 17);
+    text-align: center;
+    font-size: 40px;
+}
+h6 {
+    color: rgb(223, 164, 17);
+    text-align: center;
+    font-size: 40px;
+}
+ul {
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+}
+
+.logo {
+    height: 70vh;
+    background-image: url(https://artline.ua/storage/images/news/367/uk/news_1608806342883033_0.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#pres {
+    background-color: rgb(223, 164, 17);
+    text-align: center;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 24px auto;
+    width: 70%;
+    box-shadow: 0px 0px 10px 1px;
+}
+
+.cait {
+    background-color: rgb(223, 164, 17);
+    text-align: center;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 24px auto;
+    width: 70%;
+    box-shadow: 0px 0px 10px 1px;
+}
+
+.role {
+    background-color: rgb(223, 164, 17);
+    text-align: center;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 24px auto;
+    width: 70%;
+    box-shadow: 0px 0px 10px 1px;
+}
+
+.spell {
+    background-color: rgb(223, 164, 17);
+    text-align: center;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 24px auto;
+    width: 70%;
+    box-shadow: 0px 0px 10px 1px;
+}
+
+.items {
+    background-color: rgb(223, 164, 17);
+    text-align: center;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 24px auto;
+    width: 70%;
+    box-shadow: 0px 0px 10px 1px;
+    align-items: center;
+}
+
+.bio {
+    background-color: rgb(223, 164, 17);
+    text-align: center;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 24px auto;
+    width: 70%;
+    box-shadow: 0px 0px 10px 1px;
+}
+
+.button-blue {
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    padding: 12px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-decoration: none;
+    display: block;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.button-blue:hover {
+    background-color: white;
+    color: black;
+}
+
+
